@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Pig\C++HW\Homework7\P16\source\Main.cpp(12,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Pig\C++HW\Homework7\P16\source\Main.cpp(13,17): warning C4101: 'ch': 未參考的區域變數
+  P16.vcxproj -> C:\Pig\C++HW\Homework7\P16\P16\x64\Debug\P16.exe

@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.cpp
+C:\Pig\C++HW\Homework7\P17\source\Main.cpp(6,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Pig\C++HW\Homework7\P17\source\Main.cpp(15,23): warning C4474: 'printf': 傳遞給格式字串的引數太多
+C:\Pig\C++HW\Homework7\P17\source\Main.cpp(15,23): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  P17.vcxproj -> C:\Pig\C++HW\Homework7\P17\P17\..\temp\debug\P17.exe
